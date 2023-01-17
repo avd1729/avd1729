@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @avd1729
-- 👀 I’m interested in Machine Learning & Penetration testing
+- 👀 I’m interested in Datascience & Machine learning
 - 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/aravind-m-s-8288a825b
 
 <!---
