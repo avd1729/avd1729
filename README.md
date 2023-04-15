@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying M.Sc.DATASCIENCE (2nd year of 5)<br>👯 I’m looking to collaborate on Data Science projects and workflows <br>🤝 I’m looking for help with understanding the Industrial standard for Data Scientists <br>🌱 I’m currently learning Block Chain Development and WEB 3.0<br>💬 Ask me about linkedin.com/in/aravind-m-s-8288a825b<br>⚡ I'm into learning Machine Learning and its implications in real life
+🔭 I’m currently studying M.Sc.DATASCIENCE (2nd year of 5)<br>👯 I’m looking to collaborate on Data Science projects and workflows <br>🤝 I’m looking for help with understanding the Industrial standard for Data Scientists <br>🌱 I’m currently learning Machine learning and WEB 3.0<br>💬 Ask me about linkedin.com/in/aravind-m-s-8288a825b<br>⚡ I'm into learning Machine Learning and its implications in real life
 
 
 ## 🌐 Socials:
