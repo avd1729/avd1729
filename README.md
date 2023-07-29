@@ -49,6 +49,6 @@
 
 ###
 
-![Snake animation](https://github.com/avd1729/avd1729/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/avd1729/avd1729/output/snake.svg" alt="Snake animation" />
 
 ###
