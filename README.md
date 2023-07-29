@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/avd1729/avd1729/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/avd1729/avd1729/output/snake.svg" alt="Snake animation" /> -->
 
 ###
