@@ -8,7 +8,7 @@
 ### <div align="center">I'm Aravind, a Passionate Data science Major</div>  
   
 
-- 🔭 I’m currently working on [CulinaryBot](https://github.com/avd1729/CulinaryBot)  
+- 🔭 I’m currently working on [Angular](https://github.com/avd1729/Angular)  
   
 
 - 🌱 I’m currently learning Angular and Typescript.  
